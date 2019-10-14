@@ -3,6 +3,7 @@ Environment URL
 Dev|https://ubpdev.appiancloud.com/suite/webapi/btq/libraries/branch/directory
 Test|https://ubptest.appiancloud.com/suite/webapi/btq/libraries/branch/directory
 Prod|https://ubp.appiancloud.com/suite/webapi/btq/libraries/branch/directory
+---
 
 **Sample Request**
 
@@ -55,7 +56,7 @@ curl -X GET \
 }
 ```
 
-**Query Parameters**
+#Query Parameters 
 
 ### Batchsize
 Returns first 20 branches
