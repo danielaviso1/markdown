@@ -1,4 +1,4 @@
-Environment URL
+Environment|URL
 ---|---
 Dev|https://ubpdev.appiancloud.com/suite/webapi/btq/libraries/branch/directory
 Test|https://ubptest.appiancloud.com/suite/webapi/btq/libraries/branch/directory
@@ -56,7 +56,7 @@ curl -X GET \
 }
 ```
 
-#Query Parameters 
+# Query Parameters 
 
 ### Batchsize
 Returns first 20 branches
